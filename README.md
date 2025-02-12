@@ -1,1 +1,1 @@
-# Weather-App
+A Weather App built using HTML, CSS, and JavaScript, powered by a weather API! ☁️🌦️ This app provides real-time weather updates, displaying temperature, humidity, wind speed, and rain conditions for any location. With a clean and responsive UI, it ensures a seamless user experience. 🌍✨
